@@ -2,16 +2,6 @@
 
 Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajarib bormoqdaman.
 
-## Statistikalar
-
-**Bajarilgan darslar:** 4 / 35
-
----
-
-**Oxirgi yangilanish:** 25.06.2026
-
----
-
 ## Progress
 
 ### Boshlang'ich mavzular
