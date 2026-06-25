@@ -16,7 +16,7 @@ Quyidagi mashqlarni bajaring:
 4.3. Yangi mehmonlardeb nomlangan bo'sh ro'yxat yarating. .pop() va .append() metodlari yordamida mehmonga kelgan do'stlaringizning ismini friends ro'yxatidan sug'urib olib, mehmonlar ro'yxatiga qo'shing.'''
 
 # 1-amaliyot
-ismlar = [Ali, Vali, Husan]
+ismlar = ["Ali", "Vali", "Husan"]
 # 1.1-amaliyot
 print(f"{ismlar[0]} va {ismlar[1]} aka-uka.")
 print(f"{ismlar[2]}ning akasi Hasan")
