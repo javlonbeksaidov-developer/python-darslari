@@ -1,9 +1,5 @@
 
 '''AMALIYOT
-Quyidagi matnni aynan shunday ko'rinishda konsolda chiqaring:
-
-"Nexia", "Tico", 'Damas' ko'rganlar qilar havas
-
 Quyidagi misollarga yechimni Pythonda chiqaring. Har bir misoldan avval misol matnini izoh ko'rinishida yozing:
 
 1. 5 ning 4-darajasini toping
@@ -15,8 +11,10 @@ Quyidagi misollarga yechimni Pythonda chiqaring. Har bir misoldan avval misol ma
 4. Diametri 12 ga teng bo'lgan doiraning yuzini toping  (π=3.14 deb oling)
 
 5. Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping (Pifagor teoremasidan foydalaning)
+Javoblarni savol va yechim ko'rinishida chiqaring: 5 ning 4-darajasi 625
 
-Javoblarni savol va yechim ko'rinishida chiqaring: 5 ning 4-darajasi 625'''
+6. Quyidagi matnni aynan shunday ko'rinishda konsolda chiqaring:
+"Nexia", "Tico", 'Damas' ko'rganlar qilar havas'''
 
 
 # 1-savol. 5 ning 4-darajasini toping

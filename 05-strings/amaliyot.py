@@ -25,10 +25,8 @@ mahalla = "Sog'bon"
 tuman = "Bodomzor" 
 viloyat = "Samarqand"
 
-
 # 2-amaliyot mashq
 print(kocha, "ko'chasi,", mahalla, "mahallasi,", tuman, "tumani,", viloyat, "viloyati")
-
 
 # 3-amaliyot mashq
 kocha = input("Ko'cha: ")
@@ -37,15 +35,12 @@ tuman = input("Tuman: ")
 viloyat = input("Viloyat: ")
 print(f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati")
 
-
 # 4-amaliyot mashq
 print(f"{kocha} ko'chasi,\n{mahalla} mahallasi,\n{tuman} tumani,\n{viloyat} viloyati")
-
 
 # 5-amaliyot mashq
 manzil = f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati"
 print(manzil)
-
 
 # 6-amaliyot mashq
 print(manzil.title())
