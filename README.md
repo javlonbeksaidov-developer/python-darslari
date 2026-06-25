@@ -10,7 +10,7 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 * [x] 04-variables
 * [x] 05-strings
 * [x] 06-numbers
-* [ ] 07-lists
+* [x] 07-lists
 * [ ] 08-lists-tuples
 * [ ] 09-for-loop
 * [ ] 10-if-else
