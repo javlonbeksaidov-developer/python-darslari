@@ -6,8 +6,8 @@ Muallif: Anvar Narzullaev
 Web sahifa: https://python.sariq.dev
 """
 
-son = float(input("Juft son kiriting: ")
+son = float(input("Juft son kiriting: ")) # son = float(input("Juft son kiriting: ")
 if son%2==0:
-    print("Bu son juft emas.')
+    print("Bu son juft emas.") #     print("Bu son juft emas.')
 else:
-    print("Rahmat!"))
+    print("Rahmat!") #     print("Rahmat!"))

@@ -6,26 +6,24 @@ Muallif: Anvar Narzullaev
 Web sahifa: https://python.sariq.dev
 """
 
-mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
-               'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
+mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz','kartoshka', 'olma', 'banan', 'uzum', 'qovun']
 
 
 savat = []
 for n in range(5):
-    savat.append(input(f'Savatga {n+1}-mahsulotni qo'shing: '))
+    savat.append(input(f'Savatga {n+1}-mahsulotni qoshing: '))   # savat.append(input(f'Savatga {n+1}-mahsulotni qo'shing: '))
 
 bor_mahsulotlar = []
 mavjud_emas = []
 for mahsulot in savat:
     if mahsulot in mahsulotlar:
-        bor_mahsulotlar.append(mahslot)
+        bor_mahsulotlar.append(mahsulot) # bor_mahsulotlar.append(mahslot)
     else:
         mavjud_emas.append(mahsulot)
 
-if mavjud_emas:
-  print("Do'konimizda quyidagi mahsulotlar yo'q:")
 for mahsulot in mavjud_emas:
   print(mahsulot)
-else:
-  print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
-    
+  if mavjud_emas:
+    print("Do'konimizda quyidagi mahsulotlar yo'q:")
+  else:
+    print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
