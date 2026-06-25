@@ -11,17 +11,17 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 * [x] 05-strings
 * [x] 06-numbers
 * [x] 07-lists
-* [ ] 08-lists-tuples
-* [ ] 09-for-loop
-* [ ] 10-if-else
-* [ ] 11-if-elif-else
-* [ ] 12-errors
+* [x] 08-lists-tuples
+* [x] 09-for-loop
+* [x] 10-if-else
+* [x] 11-if-elif-else
+* [x] 12-errors
 
 ### Ma'lumotlar tuzilmalari
 
-* [ ] 14-dictionary
-* [ ] 15a-dictionary-items
-* [ ] 15b-sets
+* [x] 14-dictionary
+* [x] 15a-dictionary-items
+* [x] 15b-sets
 * [ ] 16-nesting
 
 ### Takrorlash operatorlari
