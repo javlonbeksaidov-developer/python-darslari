@@ -22,12 +22,12 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 * [x] 14-dictionary
 * [x] 15a-dictionary-items
 * [x] 15b-sets
-* [ ] 16-nesting
+* [x] 16-nesting
 
 ### Takrorlash operatorlari
 
-* [ ] 17-while-loops
-* [ ] 18-while-list-dict
+* [x] 17-while-loops
+* [x] 18-while-list-dict
 
 ### Funksiyalar va modullar
 
