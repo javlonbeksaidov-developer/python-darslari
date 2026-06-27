@@ -21,7 +21,7 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 
 * [x] 14-dictionary
 * [x] 15a-dictionary-items
-* [x] 15b-sets
+* [o] 15b-sets
 * [x] 16-nesting
 
 ### Takrorlash operatorlari
