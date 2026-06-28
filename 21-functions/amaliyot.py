@@ -47,7 +47,7 @@ main()
 
 # 3-amaliyot
 def bahola(ismlar):
-    print("O'quvchilarni baholash")
+    print("Talabalarni baholash")
     baholar = {}
     for ism in ismlar:
         baho = input(f"{ism.title()}ga nechi baho: ")
