@@ -21,7 +21,7 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 
 * [x] 14-dictionary
 * [x] 15a-dictionary-items
-* [o] 15b-sets
+* [ ] 15b-sets
 * [x] 16-nesting
 
 ### Takrorlash operatorlari
@@ -31,9 +31,9 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 
 ### Funksiyalar va modullar
 
-* [ ] 19-functions
-* [ ] 20-functions
-* [ ] 21-functions
+* [x] 19-functions
+* [x] 20-functions
+* [x] 21-functions
 * [ ] 22-functions
 * [ ] 23-functions-modules
 * [ ] 24-lambda-map-filter
@@ -46,7 +46,7 @@ Ushbu repository orqali Python kursidagi darslar bo'yicha uyga vazifalarni bajar
 
 ### OOP
 
-* [ ] 28-klass
+* [x] 28-klass
 * [ ] 29-klass
 * [ ] 30-inheritance
 * [ ] 31-encapsulation
